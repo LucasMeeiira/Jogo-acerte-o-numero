@@ -1,9 +1,8 @@
 <h1> Mini projeto  </h1>
-<br>
 <h2> Jogo: Acerte o número</h2>
 <br>
  Dê uma olhada no projeto 👉  https://jogo-acerte-o-numero-wheat.vercel.app/
-<br>
+ <br> <br>
 <p> Eu criei o jogo para treinar um pouco de lógica e para aprimorar os meus estudos </P>
 <br>
 <p> Eu aprendi a usar uma function, sabendo que ela é algo que podemos guardar uma determinada coisa e chama-lá quando quisermos. </p>
