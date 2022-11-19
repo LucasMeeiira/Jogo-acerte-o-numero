@@ -1,4 +1,5 @@
-<h1> Jogo: Acerte o número </h1>
+<h1> Mini projeto  </h1>
+<h2> Jogo: Acerte o número</h2>
 <br>
  Dê uma olhada no projeto 👉  https://jogo-acerte-o-numero-wheat.vercel.app/
  <br>
